@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # My Favorite Repos:
+[![pardo312's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pardo312)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=SummerGame&theme=radical)](https://github.com/pardo312/SummerGame)
 
 ![Jiufens's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardo312&show_icons=true&theme=radical)
