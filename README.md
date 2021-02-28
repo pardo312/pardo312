@@ -4,19 +4,21 @@
     <img src="https://i.imgur.com/wEZTYBN.png" width="30%"/>
 </p>
 
-<h2 align="center">📚 Currently learning Techonlogies 📚</h2> 
+<h2 align="center">📚 Learning Techonlogies 📚</h2> 
 
 <p align="center"> 
    <img  alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
+   <img  alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+   <img  alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/netcore/netcore.png" />
 </p>
 
 
-<h2 align="center">✅ "Learned" technologies ✅</h2> 
+<h2 align="center">✅ Known technologies ✅</h2> 
 
 <p align="center"> 
     
-<img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img  alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 
 </p>
 
