@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#
-<h2 align="center">🌟 My Favorite Repos 🌟</h2> 
+<h2 align="center">🌟 Favorite Repos 🌟</h2> 
 
 <h3 align="center"> 
 
@@ -29,7 +28,11 @@ Here are some ideas to get you started:
 [![BoomAway](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=BoomAway&theme=radical)](https://github.com/pardo312/BoomAway)
 [![PingPong](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=PingPong&theme=radical)](https://github.com/pardo312/PingPong)
 
+</h3>
 
+<h2 align="center">📊 Github Stats 📊</h2> 
+
+<h3 align="center"> 
     
 ![Jiufens's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardo312&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pardo312&layout=compact&theme=radical)
