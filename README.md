@@ -1,7 +1,7 @@
 <h2 align="center">Welcome to Jiufen's Github 🐱‍💻</h2> 
 
 <p align="center"> <img
-    src="https://i.imgur.com/wEZTYBN.png" width="50%"/> </p>
+    src="https://i.imgur.com/wEZTYBN.png" width="30%"/> </p>
 </p>
 
 <!--
