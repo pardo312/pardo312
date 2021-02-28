@@ -9,7 +9,7 @@
 <p align="center"> 
     I have been passionate about video games for as long as I can remember.
     I loved the way they supported me in the most difficult moments of my life, to keep fighting against the obstacles. To be determined.
-    That's why my dream is to become a video game designer, to bring people the same support my heroes did when I was down.
+    That's why my dream is to become a video game developer, to bring people the same support my heroes did when I was down.
 </p>
 
 <h2 align="center">📚 Currently Learning Techonlogies 📚</h2> 
