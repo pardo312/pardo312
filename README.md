@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # My Favorite Repos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=SummerGame)](https://github.com/pardo312/SummerGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=SummerGame&theme=radical)](https://github.com/pardo312/SummerGame)
 
 ![Jiufens's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardo312&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pardo312&layout=compact&theme=radical)]
