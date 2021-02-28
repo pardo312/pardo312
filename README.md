@@ -4,20 +4,21 @@
     <img src="https://i.imgur.com/wEZTYBN.png" width="30%"/>
 </p>
 
-<!--
-**pardo312/pardo312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">📚 Currently learning Techonlogies 📚</h2> 
 
-Here are some ideas to get you started:
+<p align="center"> 
+   <img  alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2 align="center">✅ "Learned" technologies ✅</h2> 
+
+<p align="center"> 
+    
+<img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+
+</p>
 
 <h2 align="center">🌟 Favorite Repos 🌟</h2> 
 
