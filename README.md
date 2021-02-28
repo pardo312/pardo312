@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to Jiufen's Github 🐱‍💻</h2> 
+<h2 align="center">🐱‍💻 Welcome to Jiufen's Github 🐱‍💻</h2> 
 
 <p align="center"> <img
     src="https://i.imgur.com/wEZTYBN.png" width="30%"/> </p>
@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My Favorite Repos:
+#
+<h2 align="center">🌟 My Favorite Repos 🌟</h2> 
 
 [![Blender Proyects](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Blender&theme=radical)](https://github.com/pardo312/Blender)
 [![SummerGame](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=SummerGame&theme=radical)](https://github.com/pardo312/SummerGame)
 [![BoomAway](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=BoomAway&theme=radical)](https://github.com/pardo312/BoomAway)
-[![LoveGame](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=LoveGame&theme=radical)](https://github.com/pardo312/LoveGame)
+[![PingPong](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=PingPong&theme=radical)](https://github.com/pardo312/PingPong)
 
 ![Jiufens's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardo312&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pardo312&layout=compact&theme=radical)]
 
-https://github.com/pardo312/LoveGame
