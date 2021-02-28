@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/wEZTYBN.png" width="30%"/>
 </p>
 
-<h2 align="center">📚 Learning Techonlogies 📚</h2> 
+<h2 align="center">📚 Currently Learning Techonlogies 📚</h2> 
 
 <p align="center"> 
    <img  alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
@@ -15,7 +15,7 @@
 </p>
 
 
-<h2 align="center">✅ Known technologies ✅</h2> 
+<h2 align="center">🔧 Technologies in practice 🔧</h2> 
 
 <p align="center"> 
     
@@ -23,6 +23,11 @@
 <img alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img alt="blender" width="26px" src="https://raw.githubusercontent.com/pardo312/pardo312/main/images/blender.png" />
 <img alt="unity" width="26px" src="https://raw.githubusercontent.com/pardo312/pardo312/main/images/unity.png" />
+<img alt="kotlin" width="26px" src="https://raw.githubusercontent.com/pardo312/pardo312/main/images/kotlin.png" />
+<img alt="java" width="26px" src="https://raw.githubusercontent.com/pardo312/pardo312/main/images/java.png" />
+<img alt="python" width="26px" src="https://raw.githubusercontent.com/pardo312/pardo312/main/images/python.png" />
+
+</p>
 
 
 </p>
