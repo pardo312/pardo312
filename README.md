@@ -8,8 +8,10 @@
 
 <p align="center"> 
    <img  alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
-   <img  alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-   <img  alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/netcore/netcore.png" />
+   <img  alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+   <img  alt="cpp" width="26px" src="https://raw.githubusercontent.com/pardo312/pardo312/main/images/c%2B%2B.png" />
+   <img alt="reaper" width="26px" src="https://github.com/pardo312/pardo312/blob/main/images/reaper.png" />
+
 </p>
 
 
@@ -19,6 +21,9 @@
     
 <img  alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img alt="blender" width="26px" src="https://raw.githubusercontent.com/pardo312/pardo312/main/images/blender.png" />
+<img alt="unity" width="26px" src="https://raw.githubusercontent.com/pardo312/pardo312/main/images/unity.png" />
+
 
 </p>
 
