@@ -1,4 +1,8 @@
-# Welcome  to my Github 🐱‍💻
+<h2 align="center">Welcome to Jiufen's Github 🐱‍💻</h2> 
+
+<p align="center"> <img
+    src="https://i.imgur.com/zFWSXIt.jpg" /> </p>
+</p>
 
 <!--
 **pardo312/pardo312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +20,6 @@ Here are some ideas to get you started:
 -->
 
 # My Favorite Repos:
-[![pardo312's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pardo312)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=SummerGame&theme=radical)](https://github.com/pardo312/SummerGame)
 
