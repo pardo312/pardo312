@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Jiufens's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardo312&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pardo312)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pardo312&layout=compact)](https://github.com/pardo312/github-readme-stats)
+
