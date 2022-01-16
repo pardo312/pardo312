@@ -43,6 +43,7 @@
 <h3 align="center"> 
 
 [![Blender Proyects](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Blender&theme=outrun)](https://github.com/pardo312/Blender)
+[![Music](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Music&theme=outrun)](https://github.com/pardo312/Music)
 [![Games](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Games&theme=outrun)](https://github.com/pardo312/Games)
 [![Unity-Learn-Practice](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Unity-Learn-Practice&theme=outrun)](https://github.com/pardo312/Unity-Learn-Practice/wiki)
 
