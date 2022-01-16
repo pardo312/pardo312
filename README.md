@@ -42,8 +42,8 @@
 
 <h3 align="center"> 
 
-[![Blender Proyects](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Blender&theme=ocean_dark)](https://github.com/pardo312/Blender)
-[![Games](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Games&theme=ocean_dark)](https://github.com/pardo312/Games)
+[![Blender Proyects](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Blender&theme=outrun)](https://github.com/pardo312/Blender)
+[![Games](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Games&theme=outrun)](https://github.com/pardo312/Games)
 
 
 </h3>
@@ -52,7 +52,7 @@
 
 <h3 align="center"> 
     
-![Jiufens's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardo312&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pardo312&layout=compact&theme=ocean_dark)
+![Jiufens's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardo312&show_icons=true&theme=outrun)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pardo312&layout=compact&theme=outrun)
 
 </h3>
