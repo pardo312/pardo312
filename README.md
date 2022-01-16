@@ -52,7 +52,7 @@
 
 <h3 align="center"> 
     
-![Jiufens's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardo312&show_icons=true&theme=ocean_dark)
+![Jiufens's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardo312&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pardo312&layout=compact&theme=ocean_dark)
 
 </h3>
