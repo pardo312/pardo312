@@ -43,7 +43,7 @@
 <h3 align="center"> 
 
 [![Blender Proyects](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Blender&theme=radical)](https://github.com/pardo312/Blender)
-[![My Games](d)](https://github.com/pardo312/Games)
+[![My Games](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Games&theme=radical)](https://github.com/pardo312/Games)
 
 
 </h3>
