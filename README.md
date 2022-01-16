@@ -44,7 +44,7 @@
 
 [![Blender Proyects](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Blender&theme=outrun)](https://github.com/pardo312/Blender)
 [![Games](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Games&theme=outrun)](https://github.com/pardo312/Games)
-[![Unity-Learn-Practice](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Unity-Learn-Practice&theme=outrun)](https://github.com/pardo312/Unity-Learn-Practice)
+[![Unity-Learn-Practice](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Unity-Learn-Practice&theme=outrun)](https://github.com/pardo312/Unity-Learn-Practice/wiki)
 
 
 </h3>
