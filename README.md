@@ -43,7 +43,7 @@
 <h3 align="center"> 
 
 [![Blender Proyects](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Blender&theme=radical)](https://github.com/pardo312/Blender)
-[![Games](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Games&theme=radical)](https://github.com/pardo312/Games)
+[![My Games](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Games&theme=radical)](https://github.com/pardo312/Games)
 [![SummerGame](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=SummerGame&theme=radical)](https://github.com/pardo312/SummerGame)
 [![BoomAway](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=BoomAway&theme=radical)](https://github.com/pardo312/BoomAway)
 [![PingPong](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=PingPong&theme=radical)](https://github.com/pardo312/PingPong)
