@@ -46,6 +46,7 @@
 [![Music](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Music&theme=outrun)](https://github.com/pardo312/Music)
 [![Games](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Games&theme=outrun)](https://github.com/pardo312/Games)
 [![Unity-Learn-Practice](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=Unity-Learn-Practice&theme=outrun)](https://github.com/pardo312/Unity-Learn-Practice/wiki)
+[![Jiufen-Unity-Pacakages](https://github-readme-stats.vercel.app/api/pin/?username=pardo312&repo=JiufenUnityPackages&theme=outrun)](https://github.com/pardo312/JiufenUnityPackages)
 
 
 </h3>
